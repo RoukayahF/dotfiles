@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = roukayah.f21@gmail.com
+	name = Roukayah Fokeer
